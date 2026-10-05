@@ -1,4 +1,4 @@
-#kirohack
+# kirohack # киро хак #dynast.io #династ ио #династио #dynast io
 киро хак это хак на игру династ ио 
 сайт киро хак https://kiroproject.wisp.uno/
 дискорд https://discord.gg/KezTBuASUg < KiroHac
