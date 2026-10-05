@@ -7,7 +7,7 @@
 *  **Официальный сайт:** https://kiroproject.wisp.uno/
 * **Наш Discord-сервер:** https://discord.gg/KezTBuASUg
 *  **Discord создателя:** .dazaso
-* функции https://github.com/kirohack-official/updates/blob/main/updates.txt
+* функции https://raw.githubusercontent.com/kirohack-official/updates/main/updates.txt
 
 ##  Видео-инструкция:
 [ https://www.youtube.com/watch?v=UyJBXrc3p-Q ]
