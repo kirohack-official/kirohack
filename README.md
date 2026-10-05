@@ -5,8 +5,8 @@
 
 ## Полезные ссылки:
 *  **Официальный сайт:** https://kiroproject.wisp.uno/
-* 💬**Наш Discord-сервер:** https://discord.gg/KezTBuASUg
+* **Наш Discord-сервер:** https://discord.gg/KezTBuASUg
 *  **Discord создателя:** .dazaso
 
-## 📺 Видео-инструкция:
+##  Видео-инструкция:
 [ https://www.youtube.com/watch?v=UyJBXrc3p-Q ]
