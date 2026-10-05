@@ -1,6 +1,12 @@
 # kirohack # киро хак #dynast.io #династ ио #династио #dynast io
-киро хак это хак на игру династ ио 
-сайт киро хак https://kiroproject.wisp.uno/
-дискорд https://discord.gg/KezTBuASUg < KiroHac
-создатель dazaso дс .dazaso
-популярный хак на игру с ним играют около 70000 человек
+
+**Kirohack (Кирохак)** — это популярный хак для онлайн-игры Dynast.io. 
+Создатель проекта: **dazaso**. Нашим хаком пользуются около 70 000 человек!
+
+## Полезные ссылки:
+*  **Официальный сайт:** https://kiroproject.wisp.uno/
+* 💬**Наш Discord-сервер:** https://discord.gg/KezTBuASUg
+*  **Discord создателя:** .dazaso
+
+## 📺 Видео-инструкция:
+[ https://www.youtube.com/watch?v=UyJBXrc3p-Q ]
