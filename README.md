@@ -4,7 +4,7 @@
 Создатель проекта: **dazaso**. Нашим хаком пользуются около 126 человек!
 
 ## Полезные ссылки:
-*  **Официальный сайт:** https://kiroproject.wisp.uno/
+*  **Официальный сайт:** https://kiroproject.com
 * **Наш Discord-сервер:** https://discord.gg/KezTBuASUg
 *  **Discord создателя:** .dazaso
 * функции https://raw.githubusercontent.com/kirohack-official/updates/main/updates.txt
